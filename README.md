@@ -73,3 +73,4 @@ To install the required dependencies, use the following command:
 
 ```bash
 pip install -r requirements.txt
+https://github.com/N0edL/R.E.P.O-Save-Editor.git 120 fps graphic
